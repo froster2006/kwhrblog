@@ -68,3 +68,34 @@ coco:
   twitter: 'https://twitter.com'
   description: >-
     KWHR Runner
+
+ruirui:
+  name: ruirui
+  display_name: Rui Rui
+  gravatar: a2b727af9cabb950b1982a
+  email: huaningnie@gmail.com
+  web: 'https://www.google.ca'
+  twitter: 'https://twitter.com'
+  description: >-
+    KWHR Runner
+
+wangli:
+  name: wangli
+  display_name: 王丽
+  gravatar: a2b727af9cabb950b1982a
+  email: huaningnie@gmail.com
+  web: 'https://www.google.ca'
+  twitter: 'https://twitter.com'
+  description: >-
+    KWHR Runner
+
+guolaoshi:
+  name: guolaoshi
+  display_name: 郭绍武
+  gravatar: a2b727af9cabb950b1982a
+  email: huaningnie@gmail.com
+  web: 'https://www.google.ca'
+  twitter: 'https://twitter.com'
+  description: >-
+    KWHR Runner
+
