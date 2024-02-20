@@ -3,8 +3,8 @@ AliceLiu:
   display_name: Alice Liu
   gravatar: a2b727af9cabb950b1982a
   email: huaningnie@gmail.com
-  web: 'https://www.google.ca'
-  twitter: 'https://twitter.com'
+  web: 'https://www.strava.com/athletes/89159522'
+  twitter: ''
   description: >-
     KWHR Runner
 
@@ -13,8 +13,8 @@ Jason:
   display_name: Jason 詹
   gravatar: a2b727af9cabb950b1982a
   email: huaningnie@gmail.com
-  web: 'https://www.google.ca'
-  twitter: 'https://twitter.com'
+  web: ''
+  twitter: ''
   description: >-
     KWHR Runner
 
@@ -23,8 +23,8 @@ Wenbin:
   display_name: 文斌
   gravatar: a2b727af9cabb950b1982a
   email: huaningnie@gmail.com
-  web: 'https://www.google.ca'
-  twitter: 'https://twitter.com'
+  web: ''
+  twitter: ''
   description: >-
     KWHR Runner
 
@@ -34,8 +34,8 @@ yingjiang:
   display_name: 姜英Susan
   gravatar: a2b727af9cabb950b1982a
   email: huaningnie@gmail.com
-  web: 'https://www.google.ca'
-  twitter: 'https://twitter.com'
+  web: 'https://www.strava.com/athletes/107021554'
+  twitter: ''
   description: >-
     KWHR Runner
 
@@ -44,8 +44,8 @@ xuwang:
   display_name: 九儿
   gravatar: a2b727af9cabb950b1982a
   email: huaningnie@gmail.com
-  web: 'https://www.google.ca'
-  twitter: 'https://twitter.com'
+  web: 'https://www.strava.com/athletes/85057081'
+  twitter: ''
   description: >-
     KWHR Runner
 
@@ -54,8 +54,8 @@ qinggao:
   display_name: 高清
   gravatar: a2b727af9cabb950b1982a
   email: huaningnie@gmail.com
-  web: 'https://www.google.ca'
-  twitter: 'https://twitter.com'
+  web: 'https://www.strava.com/athletes/27829831'
+  twitter: ''
   description: >-
     KWHR Runner
 
@@ -64,8 +64,8 @@ coco:
   display_name: Coco Cao
   gravatar: a2b727af9cabb950b1982a
   email: huaningnie@gmail.com
-  web: 'https://www.google.ca'
-  twitter: 'https://twitter.com'
+  web: 'https://www.strava.com/athletes/66855902'
+  twitter: ''
   description: >-
     KWHR Runner
 
@@ -74,8 +74,8 @@ ruirui:
   display_name: Rui Rui
   gravatar: a2b727af9cabb950b1982a
   email: huaningnie@gmail.com
-  web: 'https://www.google.ca'
-  twitter: 'https://twitter.com'
+  web: ''
+  twitter: ''
   description: >-
     KWHR Runner
 
@@ -84,8 +84,8 @@ wangli:
   display_name: 王丽
   gravatar: a2b727af9cabb950b1982a
   email: huaningnie@gmail.com
-  web: 'https://www.google.ca'
-  twitter: 'https://twitter.com'
+  web: 'hhttps://www.strava.com/athletes/30089211'
+  twitter: ''
   description: >-
     KWHR Runner
 
@@ -94,8 +94,17 @@ guolaoshi:
   display_name: 郭绍武
   gravatar: a2b727af9cabb950b1982a
   email: huaningnie@gmail.com
-  web: 'https://www.google.ca'
-  twitter: 'https://twitter.com'
+  web: ''
+  twitter: ''
   description: >-
     KWHR Runner
 
+Mike:
+  name: Mike
+  display_name: Mike
+  gravatar: a2b727af9cabb950b1982ac19c61c83c76c1138da53912b12602f2f97f8109e1
+  email: huaningnie@gmail.com
+  web: 'https://www.strava.com/athletes/30089038'
+  twitter: 'https://www.xiaohongshu.com/user/profile/5f20c7380000000001002fb1'
+  description: >-
+    KWHR Runner
