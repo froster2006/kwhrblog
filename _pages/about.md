@@ -1,35 +1,19 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About us
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
-
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
-
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
-
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
-
-</div>
-
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
+<p>This website is blog for KW Happy Runners Club.</p>
+<br>
+<img src="https://dgalywyr863hv.cloudfront.net/pictures/clubs/728853/16630395/5/large.jpg">
+<br>
+<a target="_blank" href="https://www.strava.com/clubs/KWHappyRunners">Join us on Strava!</a>
+<br>
+<a target="_blank" href="https://wap.thejoyrun.com/crew/40796/0/e37e477be7b403dc8e5c8e6e2047cddc?joyrun_extra=joyrun%3A%2F%2Fwww.thejoyrun.com%2Fcrew%3Fcrewid%3D40796%26nodeid%3D0%26joyrun_dismiss%3D1">Join us on JoyRun(悦跑圈)</a>
 </div>
 </div>
