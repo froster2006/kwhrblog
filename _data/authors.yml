@@ -16,7 +16,7 @@ Jason:
   email: huaningnie@gmail.com
   web: ''
   twitter: ''
-  avatar: 'http://localhost:4000/kwhrblog/assets/images/posts/jason/01357e64b7c7b8583a9db3a40b91c6fa.jpeg'
+  avatar: 'http://kwhrblog.s3-website-us-east-1.amazonaws.com/kwhrblog/assets/images/posts/jason/01357e64b7c7b8583a9db3a40b91c6fa.jpeg'
   description: >-
     KWHR Runner
 
@@ -27,7 +27,7 @@ Wenbin:
   email: huaningnie@gmail.com
   web: ''
   twitter: ''
-  avatar: 'http://localhost:4000/kwhrblog/assets/images/posts/wenbin/4a411e66e76d830ad24c748d4d9d6125.jpeg'
+  avatar: 'http://kwhrblog.s3-website-us-east-1.amazonaws.com/kwhrblog/assets/images/posts/wenbin/4a411e66e76d830ad24c748d4d9d6125.jpeg'
   description: >-
     KWHR Runner
 
