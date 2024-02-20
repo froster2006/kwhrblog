@@ -105,6 +105,7 @@ guolaoshi:
   email: huaningnie@gmail.com
   web: ''
   twitter: ''
+  avatar: 'http://kwhrblog.s3-website-us-east-1.amazonaws.com/kwhrblog/assets/images/posts/guolaoshi/c7d86819a2fb0277353fef5b0a35e56b.jpeg'
   description: >-
     KWHR Runner
 
@@ -115,5 +116,26 @@ Mike:
   email: huaningnie@gmail.com
   web: 'https://www.strava.com/athletes/30089038'
   twitter: 'https://www.xiaohongshu.com/user/profile/5f20c7380000000001002fb1'
+  description: >-
+    KWHR Runner
+
+追风:
+  name: 追风
+  display_name: 追风
+  email: huaningnie@gmail.com
+  web: 'https://www.strava.com/athletes/17577090'
+  twitter: ''
+  avatar: 'https://graph.facebook.com/1217023868353969/picture?height=256&width=256'
+  description: >-
+    KWHR Runner
+
+
+Andy:
+  name: Andy
+  display_name: Andy 校长
+  email: huaningnie@gmail.com
+  web: 'https://www.strava.com/athletes/41879852'
+  twitter: ''
+  avatar: 'https://dgalywyr863hv.cloudfront.net/pictures/athletes/41879852/17159480/3/large.jpg'
   description: >-
     KWHR Runner
