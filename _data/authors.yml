@@ -5,6 +5,7 @@ AliceLiu:
   email: huaningnie@gmail.com
   web: 'https://www.strava.com/athletes/89159522'
   twitter: ''
+  avatar: 'https://dgalywyr863hv.cloudfront.net/pictures/athletes/89159522/21287520/1/large.jpg'
   description: >-
     KWHR Runner
 
@@ -15,6 +16,7 @@ Jason:
   email: huaningnie@gmail.com
   web: ''
   twitter: ''
+  avatar: 'http://localhost:4000/kwhrblog/assets/images/posts/jason/01357e64b7c7b8583a9db3a40b91c6fa.jpeg'
   description: >-
     KWHR Runner
 
@@ -25,6 +27,7 @@ Wenbin:
   email: huaningnie@gmail.com
   web: ''
   twitter: ''
+  avatar: 'http://localhost:4000/kwhrblog/assets/images/posts/wenbin/4a411e66e76d830ad24c748d4d9d6125.jpeg'
   description: >-
     KWHR Runner
 
@@ -36,6 +39,7 @@ yingjiang:
   email: huaningnie@gmail.com
   web: 'https://www.strava.com/athletes/107021554'
   twitter: ''
+  avatar: 'https://graph.facebook.com/10160019650537937/picture?height=256&width=256'
   description: >-
     KWHR Runner
 
@@ -46,6 +50,7 @@ xuwang:
   email: huaningnie@gmail.com
   web: 'https://www.strava.com/athletes/85057081'
   twitter: ''
+  avatar: 'https://dgalywyr863hv.cloudfront.net/pictures/athletes/85057081/20400725/2/large.jpg'
   description: >-
     KWHR Runner
 
@@ -55,6 +60,7 @@ qinggao:
   gravatar: a2b727af9cabb950b1982a
   email: huaningnie@gmail.com
   web: 'https://www.strava.com/athletes/27829831'
+  avatar: 'https://dgalywyr863hv.cloudfront.net/pictures/athletes/27829831/8100664/2/large.jpg'
   twitter: ''
   description: >-
     KWHR Runner
@@ -66,6 +72,7 @@ coco:
   email: huaningnie@gmail.com
   web: 'https://www.strava.com/athletes/66855902'
   twitter: ''
+  avatar: 'https://dgalywyr863hv.cloudfront.net/pictures/athletes/66855902/16622694/5/large.jpg'
   description: >-
     KWHR Runner
 
@@ -76,6 +83,7 @@ ruirui:
   email: huaningnie@gmail.com
   web: ''
   twitter: ''
+  avatar: 'http://kwhrblog.s3-website-us-east-1.amazonaws.com/kwhrblog/assets/images/posts/ruirui/9c155694f2415a64557adf9fbf01fbce.jpeg'
   description: >-
     KWHR Runner
 
@@ -86,6 +94,7 @@ wangli:
   email: huaningnie@gmail.com
   web: 'https://www.strava.com/athletes/30089211'
   twitter: ''
+  avatar: 'https://dgalywyr863hv.cloudfront.net/pictures/athletes/30089211/9117061/2/large.jpg'
   description: >-
     KWHR Runner
 
