@@ -2,7 +2,7 @@
 layout: post
 title:  "2018 KW Running Forum"
 author: qinggao
-categories: [ 视频 ]
+categories: [ 视频, 精彩活动 ]
 image: https://i3.ytimg.com/vi/HYcrkBmynxg/maxresdefault.jpg
 ---
 

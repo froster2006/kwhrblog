@@ -2,7 +2,7 @@
 layout: post
 title:  "2022多马椰子赛前经验分享会"
 author: coco
-categories: [ 视频 ]
+categories: [ 视频, 精彩活动 ]
 image: http://i3.ytimg.com/vi/XOsp2aGqE10/hqdefault.jpg
 ---
 
