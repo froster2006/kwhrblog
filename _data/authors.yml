@@ -150,3 +150,33 @@ Sam:
   avatar: 'https://dgalywyr863hv.cloudfront.net/pictures/athletes/7322636/16633741/3/large.jpg'
   description: >-
     KWHR Runner
+
+Eddy:
+  name: Eddy
+  display_name: 郭大侠
+  email: huaningnie@gmail.com
+  web: 'https://www.strava.com/athletes/30068058'
+  twitter: ''
+  avatar: 'https://dgalywyr863hv.cloudfront.net/pictures/athletes/30068058/21520561/5/large.jpg'
+  description: >-
+    KWHR Runner
+
+FengGao:
+  name: FengGao
+  display_name: 高峰
+  email: huaningnie@gmail.com
+  web: 'https://www.strava.com/athletes/30090697'
+  twitter: ''
+  avatar: 'https://dgalywyr863hv.cloudfront.net/pictures/athletes/30090697/13251504/1/large.jpg'
+  description: >-
+    KWHR Runner
+
+admin:
+  name: admin
+  display_name: admin
+  email: huaningnie@gmail.com
+  web: 'https://www.strava.com/clubs/KWHappyRunners'
+  twitter: ''
+  avatar: 'http://kwhrblog.s3-website-us-east-1.amazonaws.com/kwhrblog/assets/images/logo.png'
+  description: >-
+    KWHR admin
