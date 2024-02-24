@@ -2,7 +2,7 @@
 layout: post
 title:  "2024 Beaver Valley Happy Ski Day"
 author: Mike
-categories: [ 精彩活动 ]
+categories: [ 欢乐相聚 ]
 image: https://i.postimg.cc/MT9P9KZv/3-E0-FE3-ED-C0-E0-4-F99-9770-CE9-A6-C1417-F7.jpg
 ---
 

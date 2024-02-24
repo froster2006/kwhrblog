@@ -2,7 +2,7 @@
 layout: post
 title:  "Mississauga Half 2023"
 author: qinggao
-categories: [ 视频 ]
+categories: [ 视频, 精彩活动 ]
 image: https://i3.ytimg.com/vi/fvnsmkKR7fI/maxresdefault.jpg
 ---
 
