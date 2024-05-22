@@ -210,6 +210,12 @@ XiShuang:
   description: >-
     KWHR Runner
 
-
-
-    
+YoYo:
+  name: YoYo
+  display_name: YoYo
+  email: ''
+  web: 'https://www.strava.com/athletes/21326223'
+  twitter: ''
+  avatar: 'https://dgalywyr863hv.cloudfront.net/pictures/athletes/21326223/16663819/1/large.jpg'
+  description: >-
+    KWHR Runner
