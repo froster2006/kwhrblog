@@ -10,7 +10,7 @@ comments: false
 
 <p>This website is blog for KW Happy Runners Club.</p>
 <br>
-<img src="https://dgalywyr863hv.cloudfront.net/pictures/clubs/728853/16630395/5/large.jpg">
+<img src="https://i.postimg.cc/sxsJs4rD/D3197922.jpg">
 <br>
 <a target="_blank" href="https://www.strava.com/clubs/KWHappyRunners">Join us on Strava!</a>
 <br>
