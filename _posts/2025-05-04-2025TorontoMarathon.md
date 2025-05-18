@@ -2,7 +2,7 @@
 layout: post
 title:  "2025Toronto Marathon"
 author: admin
-categories: [ 美图, 精彩活动  ]
+categories: [ 美图, 比赛实录  ]
 image: https://i.postimg.cc/3J3JmbZt/IMG-1864.jpg
 
 ---
